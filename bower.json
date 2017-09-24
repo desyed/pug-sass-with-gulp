@@ -1,0 +1,31 @@
+{
+  "name": "itblooms-starter-kit",
+  "version": "1.0.0",
+  "authors": [
+    "Syed Shihab"
+  ],
+  "description": "Organized structure to build a simple site.",
+  "main": "build/index.html",
+  "keywords": [
+    "boilerplate",
+    "seed",
+    "starter-kit",
+    "devtips",
+    "sass",
+    "pug",
+    "gulp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "^3.3.7"
+  }
+}
